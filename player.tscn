@@ -39,10 +39,12 @@ height = 68.0
 script = ExtResource("1_ya5ls")
 metadata/_edit_group_ = true
 
-[node name="AS2D" type="AnimatedSprite2D" parent="."]
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.5, 0.5)
 sprite_frames = SubResource("SpriteFrames_4mm8t")
 animation = &"up"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CapsuleShape2D_1x2nv")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

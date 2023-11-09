@@ -3,6 +3,9 @@ using System;
 
 public partial class player : Area2D
 {
+  [Signal]
+  public delegate void HitEventHandler();
+
   [Export]
   public int Speed { get; set; } = 400;
 
@@ -36,7 +39,7 @@ public partial class player : Area2D
       velocity.Y += 1;
     }
 
-    AnimatedSprite2D animatedSprite2D = GetNode<AnimatedSprite2D>("AS2D");
+    AnimatedSprite2D animatedSprite2D = GetNode<AnimatedSprite2D>("AnimatedSprite2D");
 
     if (velocity.Length() > 0)
     {
@@ -66,6 +69,20 @@ public partial class player : Area2D
       animatedSprite2D.FlipV = velocity.Y > 0;
     }
 
+  }
+
+  private void OnBodyEntered(PhysicsBody2D body)
+  {
+    Hide();
+    EmitSignal(SignalName.Hit);
+    GetNode<CollisionShape2D>("CollisionShape2D").SetDeferred(CollisionShape2D.PropertyName.Disabled, true);
+  }
+
+  public void Start(Vector2 position)
+  {
+    Position = position;
+    Show();
+    GetNode<CollisionShape2D>("CollisionShape2D").Disabled = false;
   }
 
 }
