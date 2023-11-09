@@ -1,5 +1,4 @@
 using Godot;
-using System;
 
 public partial class player : Area2D
 {
@@ -10,7 +9,6 @@ public partial class player : Area2D
   public int Speed { get; set; } = 400;
 
   public Vector2 Screensize;
-
 
   public override void _Ready()
   {
