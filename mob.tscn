@@ -1,7 +1,7 @@
 [gd_scene load_steps=10 format=3 uid="uid://bh838t0tt7vvp"]
 
 [ext_resource type="Texture2D" uid="uid://chru050713ki0" path="res://enemyFlyingAlt_1.png" id="1_bcp6o"]
-[ext_resource type="Script" path="res://mob.cs" id="1_lkjea"]
+[ext_resource type="Script" path="res://Mob.cs" id="1_lkjea"]
 [ext_resource type="Texture2D" uid="uid://dw7n3jn72nvs4" path="res://enemyFlyingAlt_2.png" id="2_cuj01"]
 [ext_resource type="Texture2D" uid="uid://cj14vpdvhcjbq" path="res://enemySwimming_1.png" id="3_vbj42"]
 [ext_resource type="Texture2D" uid="uid://b4hm0hh16bgij" path="res://enemySwimming_2.png" id="4_iiwfl"]
@@ -48,7 +48,7 @@ animations = [{
 radius = 36.0
 height = 100.0
 
-[node name="Mob" type="RigidBody2D"]
+[node name="Mob" type="RigidBody2D" groups=["mobs"]]
 collision_mask = 0
 gravity_scale = 0.0
 script = ExtResource("1_lkjea")

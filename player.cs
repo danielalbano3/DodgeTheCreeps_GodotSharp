@@ -1,6 +1,6 @@
 using Godot;
 
-public partial class player : Area2D
+public partial class Player : Area2D
 {
   [Signal]
   public delegate void HitEventHandler();
@@ -69,7 +69,7 @@ public partial class player : Area2D
 
   }
 
-  private void OnBodyEntered(PhysicsBody2D body)
+  private void _on_body_entered(PhysicsBody2D body)
   {
     Hide();
     EmitSignal(SignalName.Hit);
