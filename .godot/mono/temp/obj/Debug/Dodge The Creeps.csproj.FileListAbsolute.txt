@@ -1,0 +1,17 @@
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\Dodge The Creeps.deps.json
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\Dodge The Creeps.runtimeconfig.json
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\Dodge The Creeps.dll
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\Dodge The Creeps.pdb
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.csproj.AssemblyReference.cache
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.AssemblyInfoInputs.cache
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.AssemblyInfo.cs
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.csproj.CoreCompileInputs.cache
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.csproj.CopyComplete
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.dll
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\refint\Dodge The Creeps.dll
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.pdb
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\Dodge The Creeps.genruntimeconfig.cache
+C:\Godot4CS\Projects\DodgeTheCreeps\.godot\mono\temp\obj\Debug\ref\Dodge The Creeps.dll

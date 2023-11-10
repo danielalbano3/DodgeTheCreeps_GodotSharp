@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLl4WCGG9+dZiSWK31ME5Dy2k4xi2Iwh/RO8a88cr5R/ZSHDnkId+m8vuIWz3IK8fq1mq1XUFOwvtvQntzzS4A==",
+  "success": true,
+  "projectFilePath": "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\Dodge The Creeps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\godot.sourcegenerators\\4.1.3\\godot.sourcegenerators.4.1.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\godotsharp\\4.1.3\\godotsharp.4.1.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\godotsharpeditor\\4.1.3\\godotsharpeditor.4.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
