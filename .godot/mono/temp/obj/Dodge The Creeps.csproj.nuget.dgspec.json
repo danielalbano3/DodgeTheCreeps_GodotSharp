@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\Dodge The Creeps.csproj": {}
+    "C:\\New folder\\DodgeTheCreeps_GodotSharp\\Dodge The Creeps.csproj": {}
   },
   "projects": {
-    "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\Dodge The Creeps.csproj": {
+    "C:\\New folder\\DodgeTheCreeps_GodotSharp\\Dodge The Creeps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\Dodge The Creeps.csproj",
+        "projectUniqueName": "C:\\New folder\\DodgeTheCreeps_GodotSharp\\Dodge The Creeps.csproj",
         "projectName": "Dodge The Creeps",
-        "projectPath": "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\Dodge The Creeps.csproj",
+        "projectPath": "C:\\New folder\\DodgeTheCreeps_GodotSharp\\Dodge The Creeps.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Godot4CS\\Projects\\DodgeTheCreeps\\.godot\\mono\\temp\\obj\\",
+        "outputPath": "C:\\New folder\\DodgeTheCreeps_GodotSharp\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

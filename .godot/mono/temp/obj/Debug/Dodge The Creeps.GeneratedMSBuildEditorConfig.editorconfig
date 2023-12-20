@@ -1,6 +1,6 @@
 is_global = true
 build_property.GodotDisabledSourceGenerators = 
-build_property.GodotProjectDir = C:\Godot4CS\Projects\DodgeTheCreeps\
+build_property.GodotProjectDir = C:\New folder\DodgeTheCreeps_GodotSharp\
 build_property.GodotProjectDirBase64 = 
 build_property.GodotSourceGenerators = 
 build_property.IsGodotToolsProject = 
@@ -13,4 +13,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DodgeTheCreeps
-build_property.ProjectDir = C:\Godot4CS\Projects\DodgeTheCreeps\
+build_property.ProjectDir = C:\New folder\DodgeTheCreeps_GodotSharp\
